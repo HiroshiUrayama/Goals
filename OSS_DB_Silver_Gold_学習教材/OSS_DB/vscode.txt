@@ -1,0 +1,8 @@
+入力補助を全部OFFにする
+    ファイル
+    設定
+    Accept Suggestion On EnterをOFFにする
+    Quick Suggestionsのjsonファイルを設定する
+            "editor.acceptSuggestionOnEnter": "off",
+            "editor.quickSuggestions": false
+            ↑こんな感じ
